@@ -1,0 +1,8 @@
+F:\Mphasis training stuff\Dot netTraining\DAY- 3\Loops\LoopsProject\LoopsProject\bin\Debug\LoopsProject.exe.config
+F:\Mphasis training stuff\Dot netTraining\DAY- 3\Loops\LoopsProject\LoopsProject\bin\Debug\LoopsProject.exe
+F:\Mphasis training stuff\Dot netTraining\DAY- 3\Loops\LoopsProject\LoopsProject\bin\Debug\LoopsProject.pdb
+F:\Mphasis training stuff\Dot netTraining\DAY- 3\Loops\LoopsProject\LoopsProject\obj\Debug\LoopsProject.csproj.AssemblyReference.cache
+F:\Mphasis training stuff\Dot netTraining\DAY- 3\Loops\LoopsProject\LoopsProject\obj\Debug\LoopsProject.csproj.SuggestedBindingRedirects.cache
+F:\Mphasis training stuff\Dot netTraining\DAY- 3\Loops\LoopsProject\LoopsProject\obj\Debug\LoopsProject.csproj.CoreCompileInputs.cache
+F:\Mphasis training stuff\Dot netTraining\DAY- 3\Loops\LoopsProject\LoopsProject\obj\Debug\LoopsProject.exe
+F:\Mphasis training stuff\Dot netTraining\DAY- 3\Loops\LoopsProject\LoopsProject\obj\Debug\LoopsProject.pdb
